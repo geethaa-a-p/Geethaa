@@ -1,2 +1,0 @@
-# Geethaa
-React JS
